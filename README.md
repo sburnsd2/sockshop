@@ -114,3 +114,4 @@ front-end   LoadBalancer   10.104.61.65   a6fefc30017ef4eb3bcd3d620f37621d-53305
 
 2. Copy the External IP (similar to ``a6fefc30017ef4eb3bcd3d620f37621d-533056230.us-east-1.elb.amazonaws.com), paste it into a new browser window and prepend it with `http://` if the page does not automatically load.
 
+#tst
